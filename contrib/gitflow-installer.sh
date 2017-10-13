@@ -13,11 +13,11 @@ if [ -z "$INSTALL_PREFIX" ] ; then
 fi
 
 if [ -z "$REPO_NAME" ] ; then
-	REPO_NAME="gitflow"
+	REPO_NAME="gitflow-cells"
 fi
 
 if [ -z "$REPO_HOME" ] ; then
-	REPO_HOME="http://github.com/nvie/gitflow.git"
+	REPO_HOME="http://github.com/AnguloHerrera/gitflow-cells.git"
 fi
 
 EXEC_FILES="git-flow"
